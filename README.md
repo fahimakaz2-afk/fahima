@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Fahima Kazmi
 
-### 🎓 Computer Science Hons. Student @ Jamia Millia Islamia | 💻 Programmer | 🧠 DSA & Problem Solving
+### 🎓 Computer Science Hons. Student @ JMI | 💻 Programmer | 🧠 DSA | 🤖 Exploring AI/ML
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Learning+Data+Structures+%26+Algorithms;C+%7C+C%2B%2B+%7C+JavaScript;Learning+by+Building+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Learning+Data+Structures+%26+Algorithms;C+%7C+C%2B%2B+%7C+JavaScript;Exploring+AI+%2F+ML;Learning+by+Building+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@ I'm a **Computer Science Hons. student at Jamia Millia Islamia (JMI)**, currentl
 
 I use GitHub to document what I learn, practice programming problems, and build small projects that help me turn concepts into working code.
 
+I'm also **interested in Artificial Intelligence and Machine Learning** and currently exploring the field to understand its fundamentals and discover where I want to take it further.
+
 ### Currently focused on:
 
 * 🧠 Data Structures & Algorithms
@@ -27,6 +29,7 @@ I use GitHub to document what I learn, practice programming problems, and build 
 * ⚡ JavaScript
 * 🌐 HTML & CSS
 * 🧩 Problem Solving
+* 🤖 Exploring AI/ML
 * 🔨 Building projects and improving my fundamentals
 
 > **Learning → Practicing → Building → Improving**
@@ -35,19 +38,19 @@ I use GitHub to document what I learn, practice programming problems, and build 
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,js" />
 </p>
 
-### Web
+### 🌐 Web
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### Version Control
+### 🔧 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
@@ -55,60 +58,130 @@ I use GitHub to document what I learn, practice programming problems, and build 
 
 ---
 
-## 🧠 DSA & Problem Solving
+## 🧠 Data Structures & Problem Solving
 
-I'm actively practicing **Data Structures & Algorithms** and using coding platforms to improve my problem-solving ability.
+I'm actively practicing **Data Structures & Algorithms** to strengthen my programming fundamentals and problem-solving skills.
 
-### Practice
+### What I'm practicing
 
-* 📗 GeeksforGeeks
-* 🟨 LeetCode
-* 💻 C / C++ problem solving
-* 🧩 Algorithmic thinking
+* Arrays & Strings
+* Searching & Sorting
+* Problem-solving patterns
+* Programming fundamentals
+* Algorithmic thinking
+* DSA problem solving
 
-### My DSA Repositories
+### 💡 Practice Platforms
 
-📌 **Fahima DSA Sprint — JMI**
-A collection of my GeeksforGeeks solutions as I work through DSA problems.
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</p>
 
-🔗 [Explore DSA Sprint](https://github.com/fahimakaz2-afk/Fahima_DSA_Sprint-JMI)
+---
 
-📌 **LeetCode Solutions**
-Solutions and practice from my LeetCode problem-solving journey.
+## 🤖 Exploring AI / ML
 
-🔗 [Explore LeetCode Solutions](https://github.com/fahimakaz2-afk/LeetCode_Solutions)
+AI and Machine Learning are areas I'm currently **curious about and exploring**.
+
+My goal is to first build strong programming and mathematical foundations, then gradually explore:
+
+* 🐍 Python for AI/ML
+* 📊 Data & visualization
+* 🧠 Machine Learning fundamentals
+* 🤖 AI concepts
+* 🔬 Practical AI/ML projects
+
+> **Currently exploring — not an expert, just curious and learning.**
 
 ---
 
 ## 🚀 Projects
 
-### 🎮 Rock Paper Scissors — C
+### 🧩 DSA Sprint — JMI
 
-A simple command-line game developed in C while practicing programming logic and fundamentals.
+A collection of my **GeeksforGeeks DSA solutions**, created as part of my ongoing problem-solving practice.
 
-**Tech:** `C`
+**Focus:** `DSA` `C++` `Problem Solving`
 
-🔗 [View Project](https://github.com/fahimakaz2-afk/rock_paper_scissors.c)
+🔗 [View Repository](https://github.com/fahimakaz2-afk/Fahima_DSA_Sprint-JMI)
+
+---
+
+### 💻 LeetCode Solutions
+
+A collection of my **LeetCode solutions**, documenting my progress as I practice algorithmic problems.
+
+**Focus:** `DSA` `Algorithms` `Problem Solving`
+
+🔗 [View Repository](https://github.com/fahimakaz2-afk/LeetCode_Solutions)
 
 ---
 
 ### 🌐 HTML Project
 
-A project created while learning and practicing HTML and the fundamentals of web development.
+A project created while learning and practicing the fundamentals of HTML and web development.
 
-**Tech:** `HTML`
+**Focus:** `HTML` `Web Development`
 
-🔗 [View Project](https://github.com/fahimakaz2-afk/html_project)
+🔗 [View Repository](https://github.com/fahimakaz2-afk/html_project)
 
 ---
 
 ### ⚡ JavaScript Exercises
 
-A collection of JavaScript exercises created to practice programming concepts and build familiarity with JavaScript.
+A collection of JavaScript exercises created while learning programming concepts and JavaScript fundamentals.
 
-**Tech:** `JavaScript`
+**Focus:** `JavaScript` `Programming`
 
 🔗 [View Repository](https://github.com/fahimakaz2-afk/exercises_js)
+
+---
+
+### 🎮 Rock Paper Scissors — C
+
+A simple command-line implementation of the classic Rock Paper Scissors game.
+
+**Focus:** `C` `Programming Fundamentals` `Logic Building`
+
+🔗 [View Repository](https://github.com/fahimakaz2-afk/rock_paper_scissors.c)
+
+---
+
+## 🧭 Currently Figuring Out
+
+```text
+             ┌──────────────────┐
+             │   LEARN & BUILD  │
+             └────────┬─────────┘
+                      ↓
+              🧠 DSA & Problem Solving
+                      ↓
+                 💻 C / C++
+                      ↓
+              🌐 Web Development
+                      ↓
+                🤖 Explore AI/ML
+                      ↓
+               🔨 Build Projects
+                      ↓
+                 🚀 Keep Growing
+```
+
+> **Still learning. Still experimenting. Still figuring it out.**
+
+---
+
+## 🎯 Goals
+
+* 📚 Strengthen my Computer Science fundamentals
+* 🧠 Become better at DSA and problem solving
+* 💻 Build more meaningful projects
+* 🌐 Improve my web development skills
+* 🤖 Learn the fundamentals of AI/ML
+* 🔬 Explore practical AI/ML applications
+* 🤝 Contribute to open-source projects
+* 💼 Prepare for software development internships
 
 ---
 
@@ -121,55 +194,31 @@ A collection of JavaScript exercises created to practice programming concepts an
 
 ---
 
-## 🌱 Currently Learning
-
-```text
-C / C++
-    ↓
-Programming Fundamentals
-    ↓
-Data Structures & Algorithms
-    ↓
-Problem Solving
-    ↓
-JavaScript & Web Development
-    ↓
-Building Better Projects
-```
-
----
-
-## 🎯 My Goals
-
-* 📚 Strengthen my Computer Science fundamentals
-* 🧠 Become better at DSA and problem solving
-* 💻 Build more meaningful projects
-* 🌐 Improve my web development skills
-* 🚀 Explore new technologies
-* 🤝 Start contributing to open-source projects
-* 💼 Prepare for software development internships
-
----
-
 ## 📈 My GitHub Journey
 
-This profile is a record of my learning journey.
+This profile is a record of my learning journey as a Computer Science student.
 
-I'm not here to pretend I know everything — I'm here to **learn, experiment, solve problems, build projects, and get better with every commit.**
+I'm using GitHub to:
 
 ```text
-          LEARN
-            ↓
-        PRACTICE
-            ↓
-          BUILD
-            ↓
-         DEBUG
-            ↓
-         IMPROVE
-            ↓
-          REPEAT
+Learn
+  ↓
+Practice
+  ↓
+Solve Problems
+  ↓
+Build Projects
+  ↓
+Make Mistakes
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Repeat 🔁
 ```
+
+I believe progress comes from **consistent practice and curiosity**.
 
 ---
 
@@ -186,5 +235,5 @@ I'm not here to pretend I know everything — I'm here to **learn, experiment, s
 <p align="center">
   <b>⭐ Thanks for visiting my profile!</b>
   <br><br>
-  <i>Keep learning. Keep building. Keep growing. 🚀</i>
+  <i>Learning. Building. Exploring. Growing. 🚀</i>
 </p>
